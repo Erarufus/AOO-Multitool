@@ -4,8 +4,12 @@
   "description": "First Attempt at a desktop multitool",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Erarufus",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^39.2.1"
+  }
 }
