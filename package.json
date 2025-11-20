@@ -10,6 +10,8 @@
   "author": "Erarufus",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^39.2.1"
+    "electron": "^39.2.1",
+    "electron-devtools-installer": "^4.0.0",
+    "typescript": "^5.9.3"
   }
 }
